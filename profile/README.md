@@ -25,6 +25,7 @@ throughout the Enterprise Linux lifecycle without limitations.
 ## Repositories
 |Repository|Description|
 |--|--|
+|[OpenELA-Main](https://github.com/openela-main)|OpenELA Source Code|
 |[branding](https://github.com/openela/branding)|Branding assets|
 |[infrastructure](https://github.com/openela/infrastructure)|Infrastructure-as-Code |
 |[governance](https://github.com/openela/governance)|Governance documentation|
